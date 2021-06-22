@@ -19,7 +19,7 @@ Each folder has the specified prompt and the associated code with it. Please che
  - GUI
 
 ## Future Upgrades and Iterations
-  - Everyyone is welcome to contribute to the repository with their Tkinter GUI applications. Please follow the format specified in the folders and create a pull request. The admins will cater to it. 
+  - Everyone is welcome to contribute to the repository with their Tkinter GUI applications. Please follow the format specified in the folders and create a pull request. The admins will cater to it. 
 
 ## Collaborators 🤖
 | Name      | GitHub Profile     |
