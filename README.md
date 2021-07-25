@@ -8,8 +8,8 @@ Each folder has the specified prompt and the associated code with it. Please che
 
 ## Installation and Execution 🔧
  - To run the code 
-    1. Copy both the codes into a Jupyter Notebook
-    2. Click on Run
+    1. Copy both the codes into a Jupyter Notebook.
+    2. Click on Run.
 
 
 ## Technology Stack 💻
